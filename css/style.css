@@ -1,0 +1,162 @@
+/**/
+body {
+    font-family: Verdana, Geneva, sans-serif;
+
+}
+.container {
+
+}
+
+.left-panel {
+    height: 300px;
+    width: 300px;
+    /*background-color: #E9E9E9;*/
+    margin: 0;
+    float: left;
+}
+
+.left-panel #current-value {
+    color: #cf3b3b;
+    font-size: 32px;
+    font-weight: bold;
+    display: inline-block;
+    margin: 10px;
+}
+.left-panel .compare-button-container {
+    display: inline-block;
+    float: right;
+    margin: 10px;
+}
+.left-panel .compare-button-container .compare-button {
+    display: block;
+    border: 1px solid #C8C8C8;
+    padding: 10px;
+    font-size: 10px;
+    border-radius: 20px;
+    width: 100px;
+    text-align: center;
+    font-style: none;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.left-panel .security-message {
+    font-size: 12px;
+    width: 200px;
+}
+.left-panel .rating-range-container .range {
+    display: block;
+    font-size: 10px;
+    margin-top: 10px;
+}
+.left-panel .rating-range-container .range .label{
+    display: inline-block;
+    border: 1px solid #C8C8C8;
+    padding: 0 5px;
+    width: 100px;
+    text-align: center;
+    border-radius: 20px;
+    font-weight: bold;
+}
+.left-panel .rating-range-container .range .value{
+    display: inline-block;
+    font-weight: bold;
+}
+.left-panel .rating-range-container .range .label p{
+    text-transform: uppercase;
+    color: white;
+}
+.left-panel .rating-range-container .range.basic .label{
+    background-color: #cf3b3b;
+}
+.left-panel .rating-range-container .range.basic .value{
+    color: #cf3b3b;
+}
+.left-panel .rating-range-container .range.intermediate .label{
+    background-color: #c69143;
+}
+.left-panel .rating-range-container .range.intermediate .value{
+    color: #c69143;
+}
+.left-panel .rating-range-container .range.advanced .label{
+    background-color: #3b75b5;
+}
+.left-panel .rating-range-container .range.advanced .value{
+    color: #3b75b5;
+}
+
+.right-panel {
+    background-color: #F9F9F9;
+    margin: 0;
+    float: left;
+}
+
+
+
+
+
+
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  stroke-width: 1;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  /*display: none;*/
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.focus circle {
+  fill: white;
+  stroke: #cf3b3b;
+  stroke-width: 2;
+}
+
+.focus .tooltip {
+  fill: #E3E3E3;
+  stroke-width: 0;
+}
+
+.focus text {
+    text-anchor: middle;
+}
+
+.focus text.rating-text {
+    fill: #cf3b3b;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.focus text.tooltip-text {
+    fill: #282828;
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.indicator-line .basic-line {
+    stroke: #cf3b3b;
+    stroke-width: 3;
+}
+.indicator-line .intermediate-line {
+    stroke: #c69143;
+    stroke-width: 3;
+}
+.indicator-line .advanced-line {
+    stroke: #3b75b5;
+    stroke-width: 3;
+}
+
+

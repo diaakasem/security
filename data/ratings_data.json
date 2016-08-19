@@ -1,0 +1,456 @@
+{
+    "guid": "a940bb61-33c4-42c9-9231-c8194c305db3",
+    "name": "Dummy Data",
+    "ratings": [
+        {
+            "rating_date": "2016-08-08",
+            "rating": 760,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-08-07",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-08-06",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-08-05",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-08-04",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-08-03",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-08-02",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-08-01",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-31",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-30",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-29",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-28",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-27",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-26",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-25",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-24",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-23",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-22",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-21",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-20",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-19",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-18",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-17",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-16",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-15",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-14",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-13",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-12",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-11",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-10",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-09",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-08",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-07",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-06",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-05",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-04",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-03",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-02",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-07-01",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-30",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-29",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-28",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-27",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-26",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-25",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-24",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-23",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-22",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-21",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-20",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-19",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-18",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-17",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-16",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-15",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-14",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-13",
+            "rating": 360,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-12",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-11",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-10",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-09",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-08",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-07",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-06",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-05",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-04",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-03",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-02",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-06-01",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-05-31",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-05-30",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-05-29",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-05-28",
+            "rating": 650,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-05-27",
+            "rating": 750,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        },
+        {
+            "rating_date": "2016-05-26",
+            "rating": 350,
+            "range": "Basic",
+            "rating_color": "#cf3b3b"
+        }
+    ]
+}

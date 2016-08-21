@@ -1,5 +1,7 @@
 (function() {
 
+    var maxYValue = 900;
+    var minYValue = 250;
     var basicColor = '#cf3b3b';
     var intermediateColor = '#c69143';
     var advancedColor = '#3b75b5';
@@ -34,6 +36,16 @@
         .x(function(d) { return x(d.date); })
         .y(function(d) { return y(d.rating); });
 
+    var industryArea = d3.svg.area()
+        .x(function(d) { return x(d.date); })
+        .y0(function(d) { return y(d.industry_min); })
+        .y1(function(d) { return y(maxYValue); });
+
+    var portfolioArea = d3.svg.area()
+        .x(function(d) { return x(d.date); })
+        .y0(function(d) { return y(d.portfolio_min); })
+        .y1(function(d) { return y(d.portfolio_max); });
+
     svg = svg.attr('width', width + margin.left + margin.right)
         .attr('height', height + margin.top + margin.bottom)
         .append('g')
@@ -52,7 +64,7 @@
 
 
         x.domain(d3.extent(data, function(d) { return d.date; }));
-        y.domain([250, 900]);
+        y.domain([minYValue, maxYValue]);
 
         svg.append('g')
             .attr('class', 'x axis')
@@ -70,7 +82,7 @@
             .attr('class', 'basic-line')
             .attr('x1', x(endPoint.date))
             .attr('x2', x(endPoint.date))
-            .attr('y1', y(250))
+            .attr('y1', y(minYValue))
             .attr('y2', y(640));
         indicator.append('line')
             .attr('class', 'intermediate-line')
@@ -83,7 +95,7 @@
             .attr('x1', x(endPoint.date))
             .attr('x2', x(endPoint.date))
             .attr('y1', y(700))
-            .attr('y2', y(900));
+            .attr('y2', y(maxYValue));
 
         var lastColor = basicColor;
         if (endPoint.rating > 640 ) {
@@ -98,6 +110,16 @@
             .attr('r', 4.5)
             .attr('cx', x(endPoint.date))
             .attr('cy', y(endPoint.rating));
+
+        svg.append('path')
+            .datum(data)
+            .attr('class', 'portfolio-area')
+            .attr('d', portfolioArea);
+
+        svg.append('path')
+            .datum(data)
+            .attr('class', 'industry-area')
+            .attr('d', industryArea);
 
         svg.append('path')
             .datum(data)
@@ -159,6 +181,25 @@
             focus.select('text.rating-text').text(d.rating).style('fill', circleColor);
             focus.select('text.tooltip-text').text(d3.time.format('%b %d')(d.date));
         }
+
+        function changeIndustry() {
+            var value = d3.select("input#industry").property('checked');
+            var display = value ? '' : 'none';
+            d3.select(".industry-area").style('display', display)
+        }
+
+        function changePortfolio() {
+            var value = d3.select("input#portfolio").property('checked');
+            var display = value ? '' : 'none';
+            d3.select(".portfolio-area").style('display', display)
+        }
+
+        changePortfolio();
+        changeIndustry();
+
+        d3.select("input#industry").on("change", changeIndustry);
+        d3.select("input#portfolio").on("change", changePortfolio);
+
     });
 
     function type(d) {

@@ -90,7 +90,10 @@ body {
     float: left;
 }
 
-
+.right-panel .controls {
+    float: right;
+    padding: 5px;
+}
 
 
 
@@ -157,6 +160,14 @@ body {
 .indicator-line .advanced-line {
     stroke: #3b75b5;
     stroke-width: 3;
+}
+
+.industry-area {
+    fill: rgba(70, 130, 180, 0.3);
+}
+
+.portfolio-area {
+    fill: rgba(125, 125, 125, 0.1);
 }
 
 

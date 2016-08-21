@@ -6,451 +6,676 @@
             "rating_date": "2016-08-08",
             "rating": 760,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 524,
+            "portfolio_min":260,
+            "portfolio_max":664
         },
         {
             "rating_date": "2016-08-07",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 510,
+            "portfolio_min":253,
+            "portfolio_max": 600
         },
         {
             "rating_date": "2016-08-06",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 509,
+            "portfolio_min":266,
+            "portfolio_max": 600
         },
         {
             "rating_date": "2016-08-05",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 535,
+            "portfolio_min":257,
+            "portfolio_max":684
         },
         {
             "rating_date": "2016-08-04",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 520,
+            "portfolio_min":251,
+            "portfolio_max":675
         },
         {
             "rating_date": "2016-08-03",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 543,
+            "portfolio_min":251,
+            "portfolio_max":698
         },
         {
             "rating_date": "2016-08-02",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 534,
+            "portfolio_min":259,
+            "portfolio_max":660
         },
         {
             "rating_date": "2016-08-01",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 522,
+            "portfolio_min":262,
+            "portfolio_max":685
         },
         {
             "rating_date": "2016-07-31",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 534,
+            "portfolio_min":259,
+            "portfolio_max":693
         },
         {
             "rating_date": "2016-07-30",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 528,
+            "portfolio_min":258,
+            "portfolio_max":665
         },
         {
             "rating_date": "2016-07-29",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 514,
+            "portfolio_min":254,
+            "portfolio_max":672
         },
         {
             "rating_date": "2016-07-28",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 503,
+            "portfolio_min":269,
+            "portfolio_max":650
         },
         {
             "rating_date": "2016-07-27",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 535,
+            "portfolio_min":257,
+            "portfolio_max":694
         },
         {
             "rating_date": "2016-07-26",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 519,
+            "portfolio_min":267,
+            "portfolio_max":653
         },
         {
             "rating_date": "2016-07-25",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 502,
+            "portfolio_min":263,
+            "portfolio_max":675
         },
         {
             "rating_date": "2016-07-24",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 527,
+            "portfolio_min":250,
+            "portfolio_max":670
         },
         {
             "rating_date": "2016-07-23",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 504,
+            "portfolio_min":268,
+            "portfolio_max":699
         },
         {
             "rating_date": "2016-07-22",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 500,
+            "portfolio_min":268,
+            "portfolio_max":689
         },
         {
             "rating_date": "2016-07-21",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 520,
+            "portfolio_min":254,
+            "portfolio_max":656
         },
         {
             "rating_date": "2016-07-20",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 512,
+            "portfolio_min":265,
+            "portfolio_max":686
         },
         {
             "rating_date": "2016-07-19",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 518,
+            "portfolio_min":263,
+            "portfolio_max":657
         },
         {
             "rating_date": "2016-07-18",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 501,
+            "portfolio_min":263,
+            "portfolio_max":663
         },
         {
             "rating_date": "2016-07-17",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 548,
+            "portfolio_min":253,
+            "portfolio_max":659
         },
         {
             "rating_date": "2016-07-16",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 518,
+            "portfolio_min":263,
+            "portfolio_max":693
         },
         {
             "rating_date": "2016-07-15",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 531,
+            "portfolio_min":251,
+            "portfolio_max":688
         },
         {
             "rating_date": "2016-07-14",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 516,
+            "portfolio_min":265,
+            "portfolio_max":656
         },
         {
             "rating_date": "2016-07-13",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 528,
+            "portfolio_min":269,
+            "portfolio_max":676
         },
         {
             "rating_date": "2016-07-12",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 549,
+            "portfolio_min":250,
+            "portfolio_max":680
         },
         {
             "rating_date": "2016-07-11",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 509,
+            "portfolio_min":262,
+            "portfolio_max":670
         },
         {
             "rating_date": "2016-07-10",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 501,
+            "portfolio_min":268,
+            "portfolio_max":668
         },
         {
             "rating_date": "2016-07-09",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 531,
+            "portfolio_min":261,
+            "portfolio_max":657
         },
         {
             "rating_date": "2016-07-08",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 524,
+            "portfolio_min":265,
+            "portfolio_max":665
         },
         {
             "rating_date": "2016-07-07",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 505,
+            "portfolio_min":250,
+            "portfolio_max":667
         },
         {
             "rating_date": "2016-07-06",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 536,
+            "portfolio_min":260,
+            "portfolio_max":650
         },
         {
             "rating_date": "2016-07-05",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 522,
+            "portfolio_min":255,
+            "portfolio_max":669
         },
         {
             "rating_date": "2016-07-04",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 520,
+            "portfolio_min":263,
+            "portfolio_max":673
         },
         {
             "rating_date": "2016-07-03",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 543,
+            "portfolio_min":260,
+            "portfolio_max":686
         },
         {
             "rating_date": "2016-07-02",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 500,
+            "portfolio_min":250,
+            "portfolio_max":686
         },
         {
             "rating_date": "2016-07-01",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 510,
+            "portfolio_min":252,
+            "portfolio_max":668
         },
         {
             "rating_date": "2016-06-30",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 522,
+            "portfolio_min":267,
+            "portfolio_max":667
         },
         {
             "rating_date": "2016-06-29",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 500,
+            "portfolio_min":250,
+            "portfolio_max":674
         },
         {
             "rating_date": "2016-06-28",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 512,
+            "portfolio_min":265,
+            "portfolio_max":671
         },
         {
             "rating_date": "2016-06-27",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 518,
+            "portfolio_min":267,
+            "portfolio_max":676
         },
         {
             "rating_date": "2016-06-26",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 536,
+            "portfolio_min":267,
+            "portfolio_max":670
         },
         {
             "rating_date": "2016-06-25",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 515,
+            "portfolio_min":254,
+            "portfolio_max":688
         },
         {
             "rating_date": "2016-06-24",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 502,
+            "portfolio_min":251,
+            "portfolio_max":678
         },
         {
             "rating_date": "2016-06-23",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 549,
+            "portfolio_min":263,
+            "portfolio_max":659
         },
         {
             "rating_date": "2016-06-22",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 501,
+            "portfolio_min":264,
+            "portfolio_max":687
         },
         {
             "rating_date": "2016-06-21",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 537,
+            "portfolio_min":262,
+            "portfolio_max":680
         },
         {
             "rating_date": "2016-06-20",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 506,
+            "portfolio_min":269,
+            "portfolio_max":692
         },
         {
             "rating_date": "2016-06-19",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 526,
+            "portfolio_min":260,
+            "portfolio_max":656
         },
         {
             "rating_date": "2016-06-18",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 510,
+            "portfolio_min":269,
+            "portfolio_max":700
         },
         {
             "rating_date": "2016-06-17",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 533,
+            "portfolio_min":269,
+            "portfolio_max":691
         },
         {
             "rating_date": "2016-06-16",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 546,
+            "portfolio_min":258,
+            "portfolio_max":662
         },
         {
             "rating_date": "2016-06-15",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 503,
+            "portfolio_min":269,
+            "portfolio_max":680
         },
         {
             "rating_date": "2016-06-14",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 503,
+            "portfolio_min":253,
+            "portfolio_max":672
         },
         {
             "rating_date": "2016-06-13",
             "rating": 360,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 537,
+            "portfolio_min":252,
+            "portfolio_max":675
         },
         {
             "rating_date": "2016-06-12",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 500,
+            "portfolio_min":259,
+            "portfolio_max":654
         },
         {
             "rating_date": "2016-06-11",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 506,
+            "portfolio_min":260,
+            "portfolio_max":650
         },
         {
             "rating_date": "2016-06-10",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 535,
+            "portfolio_min":267,
+            "portfolio_max":653
         },
         {
             "rating_date": "2016-06-09",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 537,
+            "portfolio_min":257,
+            "portfolio_max":687
         },
         {
             "rating_date": "2016-06-08",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 515,
+            "portfolio_min":254,
+            "portfolio_max":664
         },
         {
             "rating_date": "2016-06-07",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 520,
+            "portfolio_min":270,
+            "portfolio_max":665
         },
         {
             "rating_date": "2016-06-06",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 508,
+            "portfolio_min":251,
+            "portfolio_max":683
         },
         {
             "rating_date": "2016-06-05",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 533,
+            "portfolio_min":267,
+            "portfolio_max":659
         },
         {
             "rating_date": "2016-06-04",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 506,
+            "portfolio_min":268,
+            "portfolio_max":661
         },
         {
             "rating_date": "2016-06-03",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 542,
+            "portfolio_min":265,
+            "portfolio_max":681
         },
         {
             "rating_date": "2016-06-02",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 513,
+            "portfolio_min":261,
+            "portfolio_max":656
         },
         {
             "rating_date": "2016-06-01",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 507,
+            "portfolio_min":250,
+            "portfolio_max":688
         },
         {
             "rating_date": "2016-05-31",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 543,
+            "portfolio_min":270,
+            "portfolio_max":670
         },
         {
             "rating_date": "2016-05-30",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 535,
+            "portfolio_min":251,
+            "portfolio_max":656
         },
         {
             "rating_date": "2016-05-29",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 528,
+            "portfolio_min":267,
+            "portfolio_max":692
         },
         {
             "rating_date": "2016-05-28",
             "rating": 650,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 518,
+            "portfolio_min":269,
+            "portfolio_max":669
         },
         {
             "rating_date": "2016-05-27",
             "rating": 750,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 503,
+            "portfolio_min": 300,
+            "portfolio_max":688
         },
         {
             "rating_date": "2016-05-26",
             "rating": 350,
             "range": "Basic",
-            "rating_color": "#cf3b3b"
+            "rating_color": "#cf3b3b",
+            "industry_min": 513,
+            "portfolio_min": 300,
+            "portfolio_max":697
         }
     ]
 }
